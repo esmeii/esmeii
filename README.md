@@ -1,7 +1,7 @@
 ### Hi there 👋
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rama&layout=compact)](https://github.com/hi-rama/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunseong0607@ewahin.net&layout=compact)](https://github.com/eunseong0607@ewhain.net/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-rama&count_bg=%23244C90&title_bg=%23555555&icon=&icon_color=%23004458&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
